@@ -20,7 +20,7 @@ function deleteFromObjectByKey(object, key) {
 
   delete newRecipe.key
 
-  newRecipe;
+  return newRecipe;
 
 
 }
