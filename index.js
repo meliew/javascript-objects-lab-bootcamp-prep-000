@@ -1,1 +1,1 @@
-var recipe = { ingredients: "water" }
+var recipe = { ingredients: "eggs" }
