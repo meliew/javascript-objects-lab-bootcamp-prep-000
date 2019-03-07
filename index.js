@@ -14,15 +14,15 @@ function deleteFromObjectByKey(object, key) {
   // deletes key from clone of object
   // returns new object
   var object = { key }
-   
+
   var newObj = Object.assign({}, object)
-   
+
   newObj
-   
+
   delete newObj.key
-   
+
   newObj
-   
+
   object 
 }
 
