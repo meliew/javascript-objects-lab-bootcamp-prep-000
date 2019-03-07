@@ -22,7 +22,6 @@ function deleteFromObjectByKey(object, key) {
 
   newRecipe;
 
-  recipes;
 
 }
 
