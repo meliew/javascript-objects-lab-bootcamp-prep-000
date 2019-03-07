@@ -14,14 +14,14 @@ function deleteFromObjectByKey(object, key) {
   // deletes key from clone of object
   // returns new object
 
-  var newRecipe = Object.assign({}, object)
+  var newRecipe = Object.assign({}, object);
 
-  newRecipe
+  newRecipe;
 
   delete newRecipe.key
 
-  newRecipe
+  newRecipe;
 
-  recipes
+  recipes;
 
 }
